@@ -536,7 +536,7 @@ void get_updated_parameters_from_malcom(){
         /*************Testing new form of truncated code*********/
         App_LED_enabled = (strstr(s_apps_enabled,"App_LED")!=NULL) ? 1 : 0;
         level_sensor_enabled = (strstr(s_apps_enabled,"Level_Sensor")!=NULL) ? 1 : 0;
-        downstream_level_sensor_enabled = (strstr(s_apps_enabled,"Downstream_Level") != NULL) ? 1 : 0;
+        // downstream_level_sensor_enabled = (strstr(s_apps_enabled,"Downstream_Level") != NULL) ? 1 : 0;
         // valve_enabled = (strstr(s_apps_enabled, "Valve") != NULL) ? 1 : 0;
         valve_enabled = 0;
         autosampler_enabled = (strstr(s_apps_enabled, "Autosampler") != NULL) ? 1 : 0;

@@ -1,4 +1,4 @@
-ARM GAS  C:\Users\jniej\AppData\Local\Temp\cczLBwhj.s 			page 1
+ARM GAS  C:\Users\shara\AppData\Local\Temp\cchmRjKR.s 			page 1
 
 
    1              		.syntax unified
@@ -58,7 +58,7 @@ ARM GAS  C:\Users\jniej\AppData\Local\Temp\cczLBwhj.s 			page 1
   28:Generated_Source\PSoC5/emFile_mosi0.c **** *
   29:Generated_Source\PSoC5/emFile_mosi0.c **** * Summary:
   30:Generated_Source\PSoC5/emFile_mosi0.c **** *  Assign a new value to the digital port's data output register.  
-ARM GAS  C:\Users\jniej\AppData\Local\Temp\cczLBwhj.s 			page 2
+ARM GAS  C:\Users\shara\AppData\Local\Temp\cchmRjKR.s 			page 2
 
 
   31:Generated_Source\PSoC5/emFile_mosi0.c **** *
@@ -118,7 +118,7 @@ ARM GAS  C:\Users\jniej\AppData\Local\Temp\cczLBwhj.s 			page 1
   69 0034 7047     		bx	lr
   70              	.L3:
   71 0036 00BF     		.align	2
-ARM GAS  C:\Users\jniej\AppData\Local\Temp\cczLBwhj.s 			page 3
+ARM GAS  C:\Users\shara\AppData\Local\Temp\cchmRjKR.s 			page 3
 
 
   72              	.L2:
@@ -178,7 +178,7 @@ ARM GAS  C:\Users\jniej\AppData\Local\Temp\cczLBwhj.s 			page 1
   71:Generated_Source\PSoC5/emFile_mosi0.c **** 	CyPins_SetPinDriveMode(emFile_mosi0_0, mode);
   99              		.loc 1 71 0
  100 000a 0B49     		ldr	r1, .L5
-ARM GAS  C:\Users\jniej\AppData\Local\Temp\cczLBwhj.s 			page 4
+ARM GAS  C:\Users\shara\AppData\Local\Temp\cchmRjKR.s 			page 4
 
 
  101 000c 0A4B     		ldr	r3, .L5
@@ -238,7 +238,7 @@ ARM GAS  C:\Users\jniej\AppData\Local\Temp\cczLBwhj.s 			page 1
   87:Generated_Source\PSoC5/emFile_mosi0.c **** *  Returns the current value of the Digital Port as a right justified number
   88:Generated_Source\PSoC5/emFile_mosi0.c **** *  
   89:Generated_Source\PSoC5/emFile_mosi0.c **** * Note:
-ARM GAS  C:\Users\jniej\AppData\Local\Temp\cczLBwhj.s 			page 5
+ARM GAS  C:\Users\shara\AppData\Local\Temp\cchmRjKR.s 			page 5
 
 
   90:Generated_Source\PSoC5/emFile_mosi0.c **** *  Macro emFile_mosi0_ReadPS calls this function. 
@@ -298,7 +298,7 @@ ARM GAS  C:\Users\jniej\AppData\Local\Temp\cczLBwhj.s 			page 1
  103:Generated_Source\PSoC5/emFile_mosi0.c **** * Summary:
  104:Generated_Source\PSoC5/emFile_mosi0.c **** *  Read the current value assigned to a Digital Port's data output register
  105:Generated_Source\PSoC5/emFile_mosi0.c **** *
-ARM GAS  C:\Users\jniej\AppData\Local\Temp\cczLBwhj.s 			page 6
+ARM GAS  C:\Users\shara\AppData\Local\Temp\cchmRjKR.s 			page 6
 
 
  106:Generated_Source\PSoC5/emFile_mosi0.c **** * Parameters:  
@@ -357,46 +357,46 @@ ARM GAS  C:\Users\jniej\AppData\Local\Temp\cczLBwhj.s 			page 1
  223 000b 01       		.uleb128 0x1
  224 000c 00000000 		.4byte	.LASF20
  225 0010 0C       		.byte	0xc
- 226 0011 C5000000 		.4byte	.LASF21
-ARM GAS  C:\Users\jniej\AppData\Local\Temp\cczLBwhj.s 			page 7
+ 226 0011 F6000000 		.4byte	.LASF21
+ARM GAS  C:\Users\shara\AppData\Local\Temp\cchmRjKR.s 			page 7
 
 
- 227 0015 28010000 		.4byte	.LASF22
+ 227 0015 B1000000 		.4byte	.LASF22
  228 0019 00000000 		.4byte	.Ldebug_ranges0+0
  229 001d 00000000 		.4byte	0
  230 0021 00000000 		.4byte	.Ldebug_line0
  231 0025 02       		.uleb128 0x2
  232 0026 01       		.byte	0x1
  233 0027 06       		.byte	0x6
- 234 0028 F8010000 		.4byte	.LASF0
+ 234 0028 E8010000 		.4byte	.LASF0
  235 002c 02       		.uleb128 0x2
  236 002d 01       		.byte	0x1
  237 002e 08       		.byte	0x8
- 238 002f B7000000 		.4byte	.LASF1
+ 238 002f E8000000 		.4byte	.LASF1
  239 0033 02       		.uleb128 0x2
  240 0034 02       		.byte	0x2
  241 0035 05       		.byte	0x5
- 242 0036 C6010000 		.4byte	.LASF2
+ 242 0036 B6010000 		.4byte	.LASF2
  243 003a 02       		.uleb128 0x2
  244 003b 02       		.byte	0x2
  245 003c 07       		.byte	0x7
- 246 003d 15010000 		.4byte	.LASF3
+ 246 003d 46010000 		.4byte	.LASF3
  247 0041 02       		.uleb128 0x2
  248 0042 04       		.byte	0x4
  249 0043 05       		.byte	0x5
- 250 0044 EF010000 		.4byte	.LASF4
+ 250 0044 DF010000 		.4byte	.LASF4
  251 0048 02       		.uleb128 0x2
  252 0049 04       		.byte	0x4
  253 004a 07       		.byte	0x7
- 254 004b 03010000 		.4byte	.LASF5
+ 254 004b 34010000 		.4byte	.LASF5
  255 004f 02       		.uleb128 0x2
  256 0050 08       		.byte	0x8
  257 0051 05       		.byte	0x5
- 258 0052 B3010000 		.4byte	.LASF6
+ 258 0052 A3010000 		.4byte	.LASF6
  259 0056 02       		.uleb128 0x2
  260 0057 08       		.byte	0x8
  261 0058 07       		.byte	0x7
- 262 0059 7D010000 		.4byte	.LASF7
+ 262 0059 6D010000 		.4byte	.LASF7
  263 005d 03       		.uleb128 0x3
  264 005e 04       		.byte	0x4
  265 005f 05       		.byte	0x5
@@ -404,36 +404,36 @@ ARM GAS  C:\Users\jniej\AppData\Local\Temp\cczLBwhj.s 			page 1
  267 0064 02       		.uleb128 0x2
  268 0065 04       		.byte	0x4
  269 0066 07       		.byte	0x7
- 270 0067 70010000 		.4byte	.LASF8
+ 270 0067 60010000 		.4byte	.LASF8
  271 006b 04       		.uleb128 0x4
- 272 006c D0010000 		.4byte	.LASF12
+ 272 006c C0010000 		.4byte	.LASF12
  273 0070 02       		.byte	0x2
  274 0071 9201     		.2byte	0x192
  275 0073 2C000000 		.4byte	0x2c
  276 0077 02       		.uleb128 0x2
  277 0078 04       		.byte	0x4
  278 0079 04       		.byte	0x4
- 279 007a B1000000 		.4byte	.LASF9
+ 279 007a E2000000 		.4byte	.LASF9
  280 007e 02       		.uleb128 0x2
  281 007f 08       		.byte	0x8
  282 0080 04       		.byte	0x4
- 283 0081 69010000 		.4byte	.LASF10
-ARM GAS  C:\Users\jniej\AppData\Local\Temp\cczLBwhj.s 			page 8
+ 283 0081 59010000 		.4byte	.LASF10
+ARM GAS  C:\Users\shara\AppData\Local\Temp\cchmRjKR.s 			page 8
 
 
  284 0085 02       		.uleb128 0x2
  285 0086 01       		.byte	0x1
  286 0087 08       		.byte	0x8
- 287 0088 C1010000 		.4byte	.LASF11
+ 287 0088 B1010000 		.4byte	.LASF11
  288 008c 04       		.uleb128 0x4
- 289 008d EB000000 		.4byte	.LASF13
+ 289 008d 1C010000 		.4byte	.LASF13
  290 0091 02       		.byte	0x2
  291 0092 3C02     		.2byte	0x23c
  292 0094 98000000 		.4byte	0x98
  293 0098 05       		.uleb128 0x5
  294 0099 6B000000 		.4byte	0x6b
  295 009d 06       		.uleb128 0x6
- 296 009e F0000000 		.4byte	.LASF14
+ 296 009e 21010000 		.4byte	.LASF14
  297 00a2 01       		.byte	0x1
  298 00a3 27       		.byte	0x27
  299 00a4 00000000 		.4byte	.LFB0
@@ -459,7 +459,7 @@ ARM GAS  C:\Users\jniej\AppData\Local\Temp\cczLBwhj.s 			page 1
  319 00cd 77       		.sleb128 -9
  320 00ce 00       		.byte	0
  321 00cf 06       		.uleb128 0x6
- 322 00d0 99010000 		.4byte	.LASF15
+ 322 00d0 89010000 		.4byte	.LASF15
  323 00d4 01       		.byte	0x1
  324 00d5 45       		.byte	0x45
  325 00d6 00000000 		.4byte	.LFB1
@@ -468,7 +468,7 @@ ARM GAS  C:\Users\jniej\AppData\Local\Temp\cczLBwhj.s 			page 1
  328 00df 9C       		.byte	0x9c
  329 00e0 F3000000 		.4byte	0xf3
  330 00e4 07       		.uleb128 0x7
- 331 00e5 94010000 		.4byte	.LASF17
+ 331 00e5 84010000 		.4byte	.LASF17
  332 00e9 01       		.byte	0x1
  333 00ea 45       		.byte	0x45
  334 00eb 6B000000 		.4byte	0x6b
@@ -478,7 +478,7 @@ ARM GAS  C:\Users\jniej\AppData\Local\Temp\cczLBwhj.s 			page 1
  338 00f2 00       		.byte	0
  339 00f3 09       		.uleb128 0x9
  340 00f4 94000000 		.4byte	.LASF18
-ARM GAS  C:\Users\jniej\AppData\Local\Temp\cczLBwhj.s 			page 9
+ARM GAS  C:\Users\shara\AppData\Local\Temp\cchmRjKR.s 			page 9
 
 
  341 00f8 01       		.byte	0x1
@@ -489,7 +489,7 @@ ARM GAS  C:\Users\jniej\AppData\Local\Temp\cczLBwhj.s 			page 1
  346 0106 01       		.uleb128 0x1
  347 0107 9C       		.byte	0x9c
  348 0108 09       		.uleb128 0x9
- 349 0109 D6010000 		.4byte	.LASF19
+ 349 0109 C6010000 		.4byte	.LASF19
  350 010d 01       		.byte	0x1
  351 010e 71       		.byte	0x71
  352 010f 6B000000 		.4byte	0x6b
@@ -538,7 +538,7 @@ ARM GAS  C:\Users\jniej\AppData\Local\Temp\cczLBwhj.s 			page 1
  395 0023 3E       		.uleb128 0x3e
  396 0024 0B       		.uleb128 0xb
  397 0025 03       		.uleb128 0x3
-ARM GAS  C:\Users\jniej\AppData\Local\Temp\cczLBwhj.s 			page 10
+ARM GAS  C:\Users\shara\AppData\Local\Temp\cchmRjKR.s 			page 10
 
 
  398 0026 08       		.uleb128 0x8
@@ -598,7 +598,7 @@ ARM GAS  C:\Users\jniej\AppData\Local\Temp\cczLBwhj.s 			page 1
  452 005d 0B       		.uleb128 0xb
  453 005e 3B       		.uleb128 0x3b
  454 005f 0B       		.uleb128 0xb
-ARM GAS  C:\Users\jniej\AppData\Local\Temp\cczLBwhj.s 			page 11
+ARM GAS  C:\Users\shara\AppData\Local\Temp\cchmRjKR.s 			page 11
 
 
  455 0060 49       		.uleb128 0x49
@@ -658,7 +658,7 @@ ARM GAS  C:\Users\jniej\AppData\Local\Temp\cczLBwhj.s 			page 1
  509 000e 0000     		.2byte	0
  510 0010 00000000 		.4byte	.LFB0
  511 0014 3C000000 		.4byte	.LFE0-.LFB0
-ARM GAS  C:\Users\jniej\AppData\Local\Temp\cczLBwhj.s 			page 12
+ARM GAS  C:\Users\shara\AppData\Local\Temp\cchmRjKR.s 			page 12
 
 
  512 0018 00000000 		.4byte	.LFB1
@@ -717,108 +717,104 @@ ARM GAS  C:\Users\jniej\AppData\Local\Temp\cczLBwhj.s 			page 1
  544 00a6 73746174 		.ascii	"staticBits\000"
  544      69634269 
  544      747300
- 545              	.LASF9:
-ARM GAS  C:\Users\jniej\AppData\Local\Temp\cczLBwhj.s 			page 13
+ 545              	.LASF22:
+ARM GAS  C:\Users\shara\AppData\Local\Temp\cchmRjKR.s 			page 13
 
 
- 546 00b1 666C6F61 		.ascii	"float\000"
- 546      7400
- 547              	.LASF1:
- 548 00b7 756E7369 		.ascii	"unsigned char\000"
- 548      676E6564 
- 548      20636861 
- 548      7200
- 549              	.LASF21:
- 550 00c5 47656E65 		.ascii	"Generated_Source\\PSoC5\\emFile_mosi0.c\000"
- 550      72617465 
- 550      645F536F 
- 550      75726365 
- 550      5C50536F 
- 551              	.LASF13:
- 552 00eb 72656738 		.ascii	"reg8\000"
- 552      00
- 553              	.LASF14:
- 554 00f0 656D4669 		.ascii	"emFile_mosi0_Write\000"
- 554      6C655F6D 
- 554      6F736930 
- 554      5F577269 
- 554      746500
- 555              	.LASF5:
- 556 0103 6C6F6E67 		.ascii	"long unsigned int\000"
- 556      20756E73 
- 556      69676E65 
- 556      6420696E 
- 556      7400
- 557              	.LASF3:
- 558 0115 73686F72 		.ascii	"short unsigned int\000"
- 558      7420756E 
- 558      7369676E 
- 558      65642069 
- 558      6E7400
- 559              	.LASF22:
- 560 0128 433A5C55 		.ascii	"C:\\Users\\jniej\\OneDrive\\Documents\\GitHub\\noto"
- 560      73657273 
- 560      5C6A6E69 
- 560      656A5C4F 
- 560      6E654472 
- 561 0155 72694F53 		.ascii	"riOS\\notoriOS.cydsn\000"
- 561      5C6E6F74 
- 561      6F72694F 
- 561      532E6379 
- 561      64736E00 
+ 546 00b1 443A5C44 		.ascii	"D:\\Data\\Stormwater-RA\\notoriOS-og\\notoriOS.cyds"
+ 546      6174615C 
+ 546      53746F72 
+ 546      6D776174 
+ 546      65722D52 
+ 547 00e0 6E00     		.ascii	"n\000"
+ 548              	.LASF9:
+ 549 00e2 666C6F61 		.ascii	"float\000"
+ 549      7400
+ 550              	.LASF1:
+ 551 00e8 756E7369 		.ascii	"unsigned char\000"
+ 551      676E6564 
+ 551      20636861 
+ 551      7200
+ 552              	.LASF21:
+ 553 00f6 47656E65 		.ascii	"Generated_Source\\PSoC5\\emFile_mosi0.c\000"
+ 553      72617465 
+ 553      645F536F 
+ 553      75726365 
+ 553      5C50536F 
+ 554              	.LASF13:
+ 555 011c 72656738 		.ascii	"reg8\000"
+ 555      00
+ 556              	.LASF14:
+ 557 0121 656D4669 		.ascii	"emFile_mosi0_Write\000"
+ 557      6C655F6D 
+ 557      6F736930 
+ 557      5F577269 
+ 557      746500
+ 558              	.LASF5:
+ 559 0134 6C6F6E67 		.ascii	"long unsigned int\000"
+ 559      20756E73 
+ 559      69676E65 
+ 559      6420696E 
+ 559      7400
+ 560              	.LASF3:
+ 561 0146 73686F72 		.ascii	"short unsigned int\000"
+ 561      7420756E 
+ 561      7369676E 
+ 561      65642069 
+ 561      6E7400
  562              	.LASF10:
- 563 0169 646F7562 		.ascii	"double\000"
+ 563 0159 646F7562 		.ascii	"double\000"
  563      6C6500
  564              	.LASF8:
- 565 0170 756E7369 		.ascii	"unsigned int\000"
+ 565 0160 756E7369 		.ascii	"unsigned int\000"
  565      676E6564 
  565      20696E74 
  565      00
  566              	.LASF7:
- 567 017d 6C6F6E67 		.ascii	"long long unsigned int\000"
+ 567 016d 6C6F6E67 		.ascii	"long long unsigned int\000"
  567      206C6F6E 
  567      6720756E 
-ARM GAS  C:\Users\jniej\AppData\Local\Temp\cczLBwhj.s 			page 14
-
-
  567      7369676E 
  567      65642069 
  568              	.LASF17:
- 569 0194 6D6F6465 		.ascii	"mode\000"
+ 569 0184 6D6F6465 		.ascii	"mode\000"
+ARM GAS  C:\Users\shara\AppData\Local\Temp\cchmRjKR.s 			page 14
+
+
  569      00
  570              	.LASF15:
- 571 0199 656D4669 		.ascii	"emFile_mosi0_SetDriveMode\000"
+ 571 0189 656D4669 		.ascii	"emFile_mosi0_SetDriveMode\000"
  571      6C655F6D 
  571      6F736930 
  571      5F536574 
  571      44726976 
  572              	.LASF6:
- 573 01b3 6C6F6E67 		.ascii	"long long int\000"
+ 573 01a3 6C6F6E67 		.ascii	"long long int\000"
  573      206C6F6E 
  573      6720696E 
  573      7400
  574              	.LASF11:
- 575 01c1 63686172 		.ascii	"char\000"
+ 575 01b1 63686172 		.ascii	"char\000"
  575      00
  576              	.LASF2:
- 577 01c6 73686F72 		.ascii	"short int\000"
+ 577 01b6 73686F72 		.ascii	"short int\000"
  577      7420696E 
  577      7400
  578              	.LASF12:
- 579 01d0 75696E74 		.ascii	"uint8\000"
+ 579 01c0 75696E74 		.ascii	"uint8\000"
  579      3800
  580              	.LASF19:
- 581 01d6 656D4669 		.ascii	"emFile_mosi0_ReadDataReg\000"
+ 581 01c6 656D4669 		.ascii	"emFile_mosi0_ReadDataReg\000"
  581      6C655F6D 
  581      6F736930 
  581      5F526561 
  581      64446174 
  582              	.LASF4:
- 583 01ef 6C6F6E67 		.ascii	"long int\000"
+ 583 01df 6C6F6E67 		.ascii	"long int\000"
  583      20696E74 
  583      00
  584              	.LASF0:
- 585 01f8 7369676E 		.ascii	"signed char\000"
+ 585 01e8 7369676E 		.ascii	"signed char\000"
  585      65642063 
  585      68617200 
  586              		.ident	"GCC: (GNU Tools for ARM Embedded Processors) 5.4.1 20160609 (release) [ARM/embedded-5-bran
